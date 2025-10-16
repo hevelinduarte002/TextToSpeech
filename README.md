@@ -21,4 +21,4 @@ Instalação:
 - Repositório:
 '''bash
 git clone
-https://github.com/hevelinduarte002/Text_to_speech.git
+https://github.com/hevelinduarte002/TextToSpeech
